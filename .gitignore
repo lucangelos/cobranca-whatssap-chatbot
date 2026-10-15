@@ -1,0 +1,5 @@
+.venv/
+errors.csv
+__pycache__/
+*.xlsx
+~$*
